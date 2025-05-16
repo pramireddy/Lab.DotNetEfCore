@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.DotNetEfCore", "Lab.DotNetEfCore.csproj", "{8DDA7238-DF07-4508-8781-F1144F8DAD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.DotNetEfCore.,Data", "..\Lab.DotNetEfCore.,Data\Lab.DotNetEfCore.,Data.csproj", "{60BE4203-EF7D-48A4-A8B5-BD9B75ED9C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DDA7238-DF07-4508-8781-F1144F8DAD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDA7238-DF07-4508-8781-F1144F8DAD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDA7238-DF07-4508-8781-F1144F8DAD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDA7238-DF07-4508-8781-F1144F8DAD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BE4203-EF7D-48A4-A8B5-BD9B75ED9C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BE4203-EF7D-48A4-A8B5-BD9B75ED9C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BE4203-EF7D-48A4-A8B5-BD9B75ED9C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BE4203-EF7D-48A4-A8B5-BD9B75ED9C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1AD9FA-A94E-4CA6-A35A-58FD4ED6E703}
+	EndGlobalSection
+EndGlobal
