@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Lab.DotNetEfCore.,Data\Lab.DotNetEfCore.,Data.csproj" />
+    <ProjectReference Include="..\Lab.DotNetEfCore.,Data\Lab.DotNetEfCore.Data.csproj" />
   </ItemGroup>
 
 

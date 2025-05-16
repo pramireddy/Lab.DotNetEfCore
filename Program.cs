@@ -1,4 +1,4 @@
-﻿using Lab.DotNetEfCore._Data;
+﻿using Lab.DotNetEfCore.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
